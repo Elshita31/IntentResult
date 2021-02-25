@@ -16,6 +16,6 @@ Misalnya pada activity satu kita diminta mengedit sebuah nama/kalimat/kata,
 jika kita meng-klik button SAVE maka nama/kalimat/kata itu akan tersimpan pada activity dua.</h5> 
 
 <h2>Screenshot Aplikasi Intent Result</h2>
-<img src="1.jpg" height="600px" width="300px">
-<img src="2.jpg" height="600px" width="300px">
-<img src="3.jpg" height="600px" width="300px">
+<img src="1.JPG" height="600px" width="300px">
+<img src="2.JPG" height="600px" width="300px">
+<img src="3.JPG" height="600px" width="300px">
