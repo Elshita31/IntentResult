@@ -14,3 +14,8 @@ baik activity pada fungsi internal android misal seperti memanggil activity dala
 Intent Result ini adalah memulai activity dan kemudian kita akan menerima hasil activity itu kembali. 
 Misalnya pada activity satu kita diminta mengedit sebuah nama/kalimat/kata, 
 jika kita meng-klik button SAVE maka nama/kalimat/kata itu akan tersimpan pada activity dua.</h5> 
+
+<h2>Screenshot Aplikasi Intent Result</h2>
+<img src="1.jpg" height="600px" width="300px">
+<img src="2.jpg" height="600px" width="300px">
+<img src="3.jpg" height="600px" width="300px">
